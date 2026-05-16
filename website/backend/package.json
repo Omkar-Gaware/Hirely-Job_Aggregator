@@ -1,15 +1,29 @@
 {
-  "name": "backend",
+  "name": "bluebit-backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Backend API for BlueBit - Job & Internship Aggregator",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js"
   },
-  "author": "",
+  "author": "BlueBit Team",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/BlueBit-Hackathon.git"
+  },
+  "keywords": [
+    "job-aggregator",
+    "chrome-extension",
+    "express",
+    "mongodb"
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cloudinary": "^1.41.2",
