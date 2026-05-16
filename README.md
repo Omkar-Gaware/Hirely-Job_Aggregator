@@ -1,4 +1,4 @@
-# PS7 Job & Internship Aggregator
+# Job & Internship Aggregator
 
 ## 🚀 Overview
 
